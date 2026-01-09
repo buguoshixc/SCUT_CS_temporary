@@ -1,0 +1,24 @@
+# Visual Studio 缓存与临时文件 (重点)
+.vs/
+.vscode/
+*.ipch
+*.sdf
+*.suo
+*.user
+*.opendb
+
+# 编译产物
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.aps
+
+# 其他冗余
+*.log
+*.tmp

@@ -1,3 +1,5 @@
-/学科资料/大学物理实验合辑/大物上实验合辑/人体脉搏波测量.doc filter=lfs diff=lfs merge=lfs -text
+/学科资料/大物上实验合辑/大物实验报告（开源）/人体脉搏波测量.doc filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 /学科资料/人工智能导论/e-book.pdf filter=lfs diff=lfs merge=lfs -text
+**/*.pb filter=lfs diff=lfs merge=lfs -text
+**/*.ipch filter=lfs diff=lfs merge=lfs -text
